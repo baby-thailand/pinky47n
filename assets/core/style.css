@@ -75,7 +75,7 @@ body {
 }
 
 .ladipage-message .ladipage-message-box {
-    width: 400px;
+    width: 380px;
     max-width: calc(100% - 50px);
     height: 160px;
     border: 1px solid rgba(0, 0, 0, .3);
@@ -1559,7 +1559,7 @@ a:link {
 }
 
 .ladi-section .ladi-container {
-    width: 420px;
+    width: 390px;
 }
 
 body {
@@ -1584,14 +1584,14 @@ body {
     }
 
     #IMAGE2 {
-        width: 400px;
+        width: 380px;
         height: 64.6537px;
         top: 4px;
         left: 10px;
     }
 
     #IMAGE2 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 360px;
         height: 64.6537px;
         top: 0px;
         left: 0px;
@@ -1599,7 +1599,7 @@ body {
     }
 
     #BOX3 {
-        width: 400px;
+        width: 360px;
         height: 115.273px;
         top: 76.381px;
         left: 10px;
@@ -1619,7 +1619,7 @@ body {
         width: 70px;
         height: 70px;
         top: 66.654px;
-        left: 349.18px;
+        left: 309.18px;
     }
 
     #IMAGE4 > .ladi-image > .ladi-image-background {
@@ -1822,7 +1822,7 @@ body {
     }
 
     #HEADLINE19 {
-        width: 400px;
+        width: 380px;
         top: 352.926px;
         left: 9.18px;
     }
@@ -1851,7 +1851,7 @@ body {
     }
 
     #HEADLINE21 {
-        width: 400px;
+        width: 370px;
         top: 443.926px;
         left: 0px;
     }
@@ -1891,7 +1891,7 @@ body {
     }
 
     #IMAGE25 {
-        width: 420px;
+        width: 390px;
         height: 258.666px;
         top: 151.718px;
         left: 0px;
@@ -1935,7 +1935,7 @@ body {
     }
 
     #BOX28 {
-        width: 400px;
+        width: 380px;
         height: 67.0476px;
         top: 84.67px;
         left: 10px;
@@ -1949,7 +1949,7 @@ body {
     }
 
     #BOX29 {
-        width: 400px;
+        width: 380px;
         height: 253.556px;
         top: 0px;
         left: 0px;
@@ -1975,7 +1975,7 @@ body {
     }
 
     #BOX33 {
-        width: 400px;
+        width: 380px;
         height: 96.786px;
         top: 0px;
         left: 0px;
@@ -2007,14 +2007,14 @@ body {
     }
 
     #GROUP35 {
-        width: 400px;
+        width: 380px;
         height: 253.556px;
         top: 410.384px;
         left: 12px;
     }
 
     #BOX37 {
-        width: 400px;
+        width: 380px;
         height: 198px;
         top: 0px;
         left: 0px;
@@ -2028,7 +2028,7 @@ body {
     #HEADLINE38 {
         width: 160px;
         top: 6.393px;
-        left: 233.5px;
+        left: 229.5px;
     }
 
     #HEADLINE38 > .ladi-headline {
@@ -2040,7 +2040,7 @@ body {
     }
 
     #BOX39 {
-        width: 400px;
+        width: 380px;
         height: 96.786px;
         top: 0px;
         left: 0px;
@@ -2072,14 +2072,14 @@ body {
     }
 
     #GROUP36 {
-        width: 400px;
+        width: 380px;
         height: 198px;
         top: 670.67px;
         left: 12px;
     }
 
     #BOX42 {
-        width: 400px;
+        width: 380px;
         height: 267px;
         top: 0px;
         left: 0px;
@@ -2105,7 +2105,7 @@ body {
     }
 
     #BOX44 {
-        width: 400px;
+        width: 380px;
         height: 96.786px;
         top: 0px;
         left: 0px;
@@ -2137,14 +2137,14 @@ body {
     }
 
     #GROUP41 {
-        width: 400px;
+        width: 380px;
         height: 267px;
         top: 883.67px;
         left: 12px;
     }
 
     #BOX47 {
-        width: 400px;
+        width: 380px;
         height: 244px;
         top: 0px;
         left: 0px;
@@ -2158,7 +2158,7 @@ body {
     #HEADLINE48 {
         width: 175px;
         top: 12.393px;
-        left: 219px;
+        left: 210px;
     }
 
     #HEADLINE48 > .ladi-headline {
@@ -2170,7 +2170,7 @@ body {
     }
 
     #BOX49 {
-        width: 400px;
+        width: 380px;
         height: 96.786px;
         top: 0px;
         left: 0px;
@@ -2202,7 +2202,7 @@ body {
     }
 
     #GROUP46 {
-        width: 400px;
+        width: 380px;
         height: 244px;
         top: 1165.67px;
         left: 12px;
@@ -2265,7 +2265,7 @@ body {
     }
 
     #BOX54 {
-        width: 420px;
+        width: 390px;
         height: 475.667px;
         top: 50px;
         left: 0px;
@@ -2365,7 +2365,7 @@ body {
     }
 
     #BOX59 {
-        width: 413.989px;
+        width: 383.989px;
         height: 344.333px;
         top: 0px;
         left: 0px;
@@ -2379,7 +2379,7 @@ body {
     }
 
     #IMAGE61 {
-        width: 420px;
+        width: 390px;
         height: 261.818px;
         top: 450.15px;
         left: 0px;
@@ -2388,7 +2388,7 @@ body {
     }
 
     #IMAGE61 > .ladi-image > .ladi-image-background {
-        width: 420px;
+        width: 390px;
         height: 261.818px;
         top: 0px;
         left: 0px;
@@ -2396,7 +2396,7 @@ body {
     }
 
     #BOX62 {
-        width: 410.309px;
+        width: 380.309px;
         height: 340.508px;
         top: 1.91297px;
         left: 1.83995px;
@@ -2462,10 +2462,10 @@ body {
     }
 
     #IMAGE69 {
-        width: 380px;
+        width: 370px;
         height: 272.842px;
         top: 665.5px;
-        left: 25.148px;
+        left: 15.148px;
     }
 
     #IMAGE69 > .ladi-image > .ladi-image-background {
@@ -2504,7 +2504,7 @@ body {
     }
 
     #BOX73 {
-        width: 420px;
+        width: 390px;
         height: 2191.2px;
         top: 0px;
         left: 0px;
@@ -2516,14 +2516,14 @@ body {
     }
 
     #IMAGE74 {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 7.667px;
         left: 10px;
     }
 
     #IMAGE74 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 0px;
         left: 0px;
@@ -2542,14 +2542,14 @@ body {
     }
 
     #IMAGE75 {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 1416.16px;
         left: 10px;
     }
 
     #IMAGE75 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 0px;
         left: 0px;
@@ -2568,14 +2568,14 @@ body {
     }
 
     #IMAGE78 {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 358.064px;
         left: 10px;
     }
 
     #IMAGE78 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 0px;
         left: 0px;
@@ -2594,14 +2594,14 @@ body {
     }
 
     #IMAGE79 {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 1062.86px;
         left: 10px;
     }
 
     #IMAGE79 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 0px;
         left: 0px;
@@ -2620,14 +2620,14 @@ body {
     }
 
     #IMAGE81 {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 711.461px;
         left: 10px;
     }
 
     #IMAGE81 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 343.75px;
         top: 0px;
         left: 0px;
@@ -2646,14 +2646,14 @@ body {
     }
 
     #IMAGE82 {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 1763.86px;
         left: 10px;
     }
 
     #IMAGE82 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 347.397px;
         top: 0px;
         left: 0px;
@@ -2672,7 +2672,7 @@ body {
     }
 
     #BOX84 {
-        width: 400px;
+        width: 380px;
         height: 52.8655px;
         top: 2147.97px;
         left: 15px;
@@ -2717,7 +2717,7 @@ body {
     }
 
     #IMAGE88 {
-        width: 400px;
+        width: 380px;
         height: 281.164px;
         top: 14.6002px;
         left: 437px;
@@ -2726,7 +2726,7 @@ body {
     }
 
     #IMAGE88 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 281.164px;
         top: 0px;
         left: 0px;
@@ -2747,7 +2747,7 @@ body {
     }
 
     #BOX90 {
-        width: 400px;
+        width: 380px;
         height: 70.4444px;
         top: 10px;
         left: 10px;
@@ -2762,7 +2762,7 @@ body {
     }
 
     #BOX91 {
-        width: 400px;
+        width: 380px;
         height: 518.79px;
         top: 82.543px;
         left: 10px;
@@ -2787,7 +2787,7 @@ body {
     }
 
     #IMAGE93 {
-        width: 380px;
+        width: 360px;
         height: 205.51px;
         top: 384.217px;
         left: 22.5px;
@@ -2818,7 +2818,7 @@ body {
     }
 
     #IMAGE94 {
-        width: 380px;
+        width: 360px;
         height: 284.784px;
         top: 89.4444px;
         left: 22.5px;
@@ -2900,7 +2900,7 @@ body {
     }
 
     #HEADLINE98 {
-        width: 400px;
+        width: 380px;
         top: 377px;
         left: 13.467px;
     }
@@ -3044,7 +3044,7 @@ body {
     }
 
     #HEADLINE110 {
-        width: 400px;
+        width: 380px;
         top: 173.239px;
         left: 10.0005px;
     }
@@ -3067,14 +3067,14 @@ body {
     }
 
     #IMAGE111 {
-        width: 400px;
+        width: 380px;
         height: 504.239px;
         top: 195px;
         left: 17.377px;
     }
 
     #IMAGE111 > .ladi-image > .ladi-image-background {
-        width: 400px;
+        width: 380px;
         height: 504.239px;
         top: 0px;
         left: 0px;
@@ -3100,7 +3100,7 @@ body {
         width: 180px;
         height: 30.3094px;
         top: 313.239px;
-        left: 236.377px;
+        left: 215.377px;
     }
 
     #IMAGE113 > .ladi-image > .ladi-image-background {
@@ -3226,7 +3226,7 @@ body {
     #HEADLINE120 {
         width: 132px;
         top: 557.165px;
-        left: 287.767px;
+        left: 267.767px;
     }
 
     #HEADLINE120 > .ladi-headline {
@@ -3241,7 +3241,7 @@ body {
     #HEADLINE121 {
         width: 133px;
         top: 608.8px;
-        left: 283.377px;
+        left: 263.377px;
     }
 
     #HEADLINE121 > .ladi-headline {
@@ -3254,7 +3254,7 @@ body {
     }
 
     #BOX122 {
-        width: 410px;
+        width: 390px;
         height: 228px;
         top: 679.796px;
         left: 5px;
@@ -3308,7 +3308,7 @@ body {
     #LIST_PARAGRAPH125 {
         width: 260px;
         top: 731.796px;
-        left: 144.183px;
+        left: 124.183px;
     }
 
     #LIST_PARAGRAPH125 > .ladi-list-paragraph {
@@ -3423,7 +3423,7 @@ body {
     }
 
     #BOX132 {
-        width: 400px;
+        width: 380px;
         height: 726px;
         top: 10px;
         left: 9.346px;
@@ -3435,7 +3435,7 @@ body {
     }
 
     #BOX133 {
-        width: 400px;
+        width: 380px;
         height: 115px;
         top: 10px;
         left: 9.346px;
@@ -3911,7 +3911,7 @@ body {
     }
 
     #POPUP181 {
-        width: 400px;
+        width: 380px;
         height: 442.991px;
         top: 0px;
         left: 0px;
